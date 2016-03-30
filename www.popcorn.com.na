@@ -1,0 +1,4 @@
+		location	/test
+		{
+		return 200		"test2";
+		}
